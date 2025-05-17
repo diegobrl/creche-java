@@ -274,7 +274,7 @@ public class main {
                     break;
                 }
                 case 7: {
-                    System.out.println("Saindo...");
+                    System.out.println("Sair");
                     scanner.close();
                     return;
                 }
