@@ -12,8 +12,8 @@ Sistema Java para gerenciamento de turmas, crianças e professores em creches, d
 
 src/
 ├── main/
-│   ├── Crianca.java         # Classe de entidade para crianças
-│   ├── Professor.java       # Classe de entidade para professores
-│   ├── Turma.java           # Classe de agrupamento
-│   ├── Creche.java          # Classe controladora principal
-│   └── Main.java            # Ponto de entrada do programa
+Crianca.java         # Classe de entidade para crianças
+Professor.java       # Classe de entidade para professores
+Turma.java           # Classe de agrupamento
+Creche.java          # Classe controladora principal
+Main.java            # Ponto de entrada do programa
